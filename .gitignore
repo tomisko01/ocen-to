@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 package-lock.json
 node_modules/
-database/
+database
 
 ### STS ###
 .apt_generated
